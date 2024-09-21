@@ -9,5 +9,5 @@ Arbetsprov för DIGG. I /fe-digg ligger frontendappen skriven i Vue. I /be-digg 
 
 Ställ dig i /digg och kör kommandot **docker-compose up --build** \
 Detta bygger och startar både frontend och backend.\
-Nu bör projektet vara tillgängligt på http://localhost:3000\
+Nu bör projektet vara tillgängligt på http://localhost:3000 \
 För att stänga ner allt kör du kommandot **docker-compose down**
